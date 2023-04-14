@@ -1,5 +1,11 @@
 # Inertia Vue Modal
 
+> **Warning**
+>
+> I stopped development of this package and will not be using it anymore, there is a lot of issues with it and it is definitely not something I'd recommend using in production. Have a look at [momentum-modal](https://github.com/lepikhinb/momentum-modal) for an alternative or [hybridly](https://github.com/hybridly/hybridly) for complete inertia alternative (and much more)
+>
+> **Warning**
+
 ## Limitations
 
 This POC is a very early draft, so these limitations will probably be fixed soon.
